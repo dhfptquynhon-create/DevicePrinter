@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DevicePrinter/static/css/main.0971aa13.css",
+    "main.css": "/DevicePrinter/static/css/main.8a92d95d.css",
     "main.js": "/DevicePrinter/static/js/main.81e47cfb.js",
     "index.html": "/DevicePrinter/index.html",
-    "main.0971aa13.css.map": "/DevicePrinter/static/css/main.0971aa13.css.map",
+    "main.8a92d95d.css.map": "/DevicePrinter/static/css/main.8a92d95d.css.map",
     "main.81e47cfb.js.map": "/DevicePrinter/static/js/main.81e47cfb.js.map"
   },
   "entrypoints": [
-    "static/css/main.0971aa13.css",
+    "static/css/main.8a92d95d.css",
     "static/js/main.81e47cfb.js"
   ]
 }
